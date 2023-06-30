@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Dipesh24j
-- 👀 I’m interested in CyberSecurity related domains
-- 🌱 I’m currently learning Cryptography 
-- 💞️ I’m looking to collaborate on projects like Cryptography, Malware analysis, Network Security
+- 👋 Hi, I’m Dipesh
+- 👀 I’m interested in security-related domains
+- 🌱 I'm currently learning Cryptography or Hardware security 
 - 📫 https://www.linkedin.com/in/dipesh24/
 
 <!---
